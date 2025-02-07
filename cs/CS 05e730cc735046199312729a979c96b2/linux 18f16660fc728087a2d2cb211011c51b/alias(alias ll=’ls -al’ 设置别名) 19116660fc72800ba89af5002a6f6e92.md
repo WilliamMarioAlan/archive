@@ -1,0 +1,1 @@
+# alias(alias ll=’ls -al’ 设置别名)
